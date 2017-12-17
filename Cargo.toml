@@ -1,0 +1,6 @@
+[package]
+name = "open_markdown"
+version = "0.1.0"
+authors = ["Kazuki Higashiguchi <k.higashiguchi@binc.jp>"]
+
+[dependencies]
